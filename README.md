@@ -63,6 +63,10 @@ Contributions are welcome! If you’d like to help improve **Acme Rockets**, fee
 - Open an issue to report bugs or suggest features 🐛
 - Submit a pull request with your improvements or fixes 🔧
 
+## Live Demo
+
+Check out the live demo [here](https://acme-rockets-2193.netlify.app/)! 🚀
+
 ## 💬 Contact
 
 For any questions or suggestions, you can reach out to me:
